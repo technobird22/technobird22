@@ -6,7 +6,9 @@ I'm interested in Artificial Intelligence and Machine Learning. Interested in al
 ### Profile Stats
 
 #### Commit stats
-[![Technobird22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Technobird22)](https://github.com/Technobird22)
+[![Technobird22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Technobird22&&theme=aura_dark&show_icons=true)](https://github.com/Technobird22)
+
+<!-- [![Technobird22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Technobird22&&theme=dracula&show_icons=true)](https://github.com/Technobird22) -->
 
 #### Profile views counter
 ![Github views counter](https://moe-counter.glitch.me/get/@:technobird22_github?theme=asoul)
